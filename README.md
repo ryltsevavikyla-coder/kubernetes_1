@@ -4,8 +4,8 @@
 ## Задание 1. Deployment с nginx + multitool
 
 ### Манифесты
-- [deployment-nginx-multitool.yaml](deployment-nginx-multitool.yaml)
-- [service-nginx-multitool.yaml](service-nginx-multitool.yaml)
+- [deployment-nginx-multitool.yaml](https://github.com/ryltsevavikyla-coder/kubernetes_1/blob/main/kubernetes/deployment-nginx-multitool.yaml)
+- [service-nginx-multitool.yaml](https://github.com/ryltsevavikyla-coder/kubernetes_1/blob/main/kubernetes/service-nginx-multitool.yaml)
 
 
 
@@ -32,8 +32,8 @@
 ## Задание 2. Init-контейнер
 
 ### Манифесты
-- [deployment-nginx-init.yaml](deployment-nginx-init.yaml)
-- [service-nginx-init.yaml](service-nginx-init.yaml)
+- [deployment-nginx-init.yaml](https://github.com/ryltsevavikyla-coder/kubernetes_1/blob/main/kubernetes/deployment-nginx-init.yaml)
+- [service-nginx-init.yaml](https://github.com/ryltsevavikyla-coder/kubernetes_1/blob/main/kubernetes/service-nginx-init.yaml)
 
 
 
